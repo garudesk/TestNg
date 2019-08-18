@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="TestNg prog" >
+  <test name="Testng prog" >
+    <classes>
+       <class name="TestNG.FacebookLogin"/>
+       <class name="TestNG.FacebookPageTest"/>
+    </classes>
+  </test> 
+</suite>
